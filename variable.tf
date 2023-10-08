@@ -1,0 +1,9 @@
+variable "vpc_config" {}
+variable "subnet_config" {}
+variable "internetGW_config" {}
+variable "route_table_config" {}
+variable "route_table_assosiation" {}
+variable "eip_config" {}
+variable "natGW_config" {}
+variable "eks_cluster" {}
+variable "aws_eks_nodegroup" {}
